@@ -50,7 +50,7 @@ The 3D-printable case is designed to be easily assembled and maintained:
 - **Threaded inserts** for strong, durable screw connections.
 - **1/4" threaded mount** in base for positioning.
 
-Find STL files in `/3D_Models`.
+Find STL files in `/3D_Models/printFiles`.
 
 ---
 
