@@ -130,7 +130,7 @@ For questions, feedback, or collaboration, feel free to reach out via GitHub iss
 
 - [Creative Commons License Info](https://creativecommons.org/licenses/by-sa/4.0/)
 - [Instructables Guide (coming soon!)](https://www.instructables.com/)
-- [3D Model Repository (Thingiverse Link)]((https://www.thingiverse.com/thing:6980375))
+- [3D Model Repository (Thingiverse Link)](https://www.thingiverse.com/thing:6980375)
 
 ---
 
