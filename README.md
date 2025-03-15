@@ -15,7 +15,7 @@ If you or someone you know needs this kind of assistive technology but can't aff
 
 ## 💡 Features
 
-- **Sip and Puff** for left and right mouse clicks.
+- **Sip and Puff** for right and left mouse clicks (supports click and drag).
 - Optional **joystick module** for directional control (mouse movement).
 - **3D printable** housing — fully open-source design.
 - **Standard 1/4" tripod mount** on the bottom for flexible positioning (desk mount, wheelchair, etc.).
@@ -67,9 +67,10 @@ This includes:
 
 ## 💨 How It Works
 
-- **"Sip" action** triggers a left mouse click.
-- **"Puff" action** triggers a right mouse click.
-- **Optional joystick** moves the mouse cursor (analog control).
+- **"Puff" action** triggers a left mouse click.
+- **"Sip" action** triggers a right mouse click.
+- **Bottom Lip Button** triggers a middle click (for easy scrolling).
+- **Joystick Functionality** moves the mouse cursor (analog control).
 
 The device uses a **barometric pressure sensor** to detect airflow changes in the attached surgical tubing. Arduino firmware interprets these signals and emulates mouse input via USB.
 
@@ -79,8 +80,8 @@ The device uses a **barometric pressure sensor** to detect airflow changes in th
 
 1. **Connect** the device to your computer using a USB cable.
 2. **Sip and puff** to generate clicks.
-3. (Optional) Use the **joystick** for cursor movement.
-4. **Adjust tubing length** and **mount position** as needed for comfort.
+3. Use the **joystick** for cursor movement.
+4. **Adjust mount position** as needed for comfort.
 
 ---
 
@@ -123,7 +124,7 @@ If you build this device or know someone who could benefit from it:
 
 ## 📫 Contact
 
-For questions, feedback, or collaboration, feel free to reach out via GitHub issues or email: **trainslaw@gmail.com** (if applicable)
+For questions, feedback, or collaboration, feel free to reach out via GitHub issues.
 
 ---
 
