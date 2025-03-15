@@ -1,8 +1,6 @@
 
 # 🧠 Sip-and-Puff Mouse Emulator — Affordable, Open-Source Accessibility Device
 
-![sip-and-puff device banner](banner-image-placeholder.png) <!-- Optional banner image -->
-
 ## ✨ About the Project
 
 The **Sip-and-Puff Mouse Emulator** is a **low-cost, open-source accessibility device** that allows users who cannot use their hands to control a computer mouse with simple "sip" and "puff" actions. 
