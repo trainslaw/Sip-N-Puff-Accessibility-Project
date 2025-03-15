@@ -87,7 +87,7 @@ The device uses a **barometric pressure sensor** to detect airflow changes in th
 
 ## 🧑‍💻 Firmware and Customization
 
-The Arduino sketch is available in `/Firmware`.  
+The Arduino sketch is available in `/SipNPuff.ino`.  
 You can:
 - **Adjust pressure thresholds** for sip and puff in the code.
 - Modify click/hold behavior.
