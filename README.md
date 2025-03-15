@@ -3,7 +3,7 @@
 
 ## ✨ About the Project
 
-The **Sip-and-Puff Mouse Emulator** is a **low-cost, open-source accessibility device** that allows users who cannot use their hands to control a computer mouse with simple "sip" and "puff" actions. 
+The **Sip-and-Puff Mouse Emulator** is a **low-cost, open-source accessibility device** that allows users who cannot use their hands to control a computer mouse with simple "sip" and "puff" actions, plus an additional bottom lip button for customizeable actions (preset to be middle click for easy scrolling). 
 
 While commercial sip-and-puff systems can cost **upwards of $1,500**, this device is designed to be **DIY-friendly**, **3D printable**, and assembled for **a fraction of the price** — **typically under $85** in materials.
 
