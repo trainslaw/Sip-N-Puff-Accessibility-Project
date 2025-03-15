@@ -115,7 +115,7 @@ If you improve the design, firmware, or create alternative versions, **please su
 
 If you build this device or know someone who could benefit from it:
 - Share this repo.
-- Post about it on social media (tag me if you like!).
+- Post about it on social media (tag me if you like! Instagram: @trainslaw24).
 - Help improve it for others — **collaboration makes this stronger**.
 
 ---
